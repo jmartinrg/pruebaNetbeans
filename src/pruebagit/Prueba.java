@@ -10,5 +10,5 @@ package pruebagit;
  * @author usuario
  */
 public class Prueba {
-    
+  private double numeroPrueba;
 }

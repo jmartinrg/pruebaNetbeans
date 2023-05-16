@@ -19,6 +19,7 @@ public class PruebaGIT {
         
         System.out.println("HOLA MUNDO");
         System.out.println("aprendiendo GIT en Netbeans");
+        System.out.println("hemos creado la rama1");
     }
     
 }
